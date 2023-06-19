@@ -1,0 +1,28 @@
+User Panel
+
+· Login/Register
+· Profile verification by mobile number and email id
+· Add personal details
+· Real time chat
+· Payment module
+· Notifications
+
+Admin1 Panel
+
+· Login
+· Dashboard
+· Customer profile verification
+· Manage Enquiries
+· Smart search
+
+
+· Payment gateway integration
+· Manage profile
+· Reporting and analytics
+· Push notifications
+
+Social network registration: Many applications these days have inbuilt social network registration option to allow users to register themselves using social media accounts.
+
+· Picture modification  :   This feature can help in cropping, editing and adjusting the clicked pictures.
+· In-app payment  :   With the help of this feature, customers can pay for their online transactions.
+. Delivery status  : This feature will enable customers to track their delivery.
